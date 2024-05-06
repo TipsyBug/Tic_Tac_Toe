@@ -1,6 +1,7 @@
 *gradle*
 .idea
 *.yaml
+*.class
 Topics
 Simple Tic-Tac-Toe/task/out
 Simple Tic-Tac-Toe/task/build
